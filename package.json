@@ -1,0 +1,12 @@
+{
+  "name": "dextable-to-csv",
+  "version": "1.0.0",
+  "description": "Convert Dexscreener table data to CSV",
+  "main": "convert.js",
+  "scripts": {
+    "start": "node convert.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
